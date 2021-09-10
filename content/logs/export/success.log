@@ -1,0 +1,36 @@
+{"level":"info","message":"Starting assets export","timestamp":"2021-09-10T20:16:02.956Z"}
+{"level":"info","message":"Downloaded aso-logo.png: blt30ea534d1146e4db successfully!","timestamp":"2021-09-10T20:16:03.708Z"}
+{"level":"info","message":"Downloaded bow1.jpg: bltfd7470305c33000d successfully!","timestamp":"2021-09-10T20:16:03.732Z"}
+{"level":"info","message":"Downloaded fitness-hero-wk14.jpg: blt88a8704d52f10508 successfully!","timestamp":"2021-09-10T20:16:03.823Z"}
+{"level":"info","message":"Downloaded ea-softball.png: blte507cd0d326445fe successfully!","timestamp":"2021-09-10T20:16:03.827Z"}
+{"level":"info","message":"Downloaded crawfish7.jpeg: blt71ac3faace13dd50 successfully!","timestamp":"2021-09-10T20:16:03.848Z"}
+{"level":"info","message":"Downloaded bows.jpeg: blt65523444ef9dda00 successfully!","timestamp":"2021-09-10T20:16:04.104Z"}
+{"level":"info","message":"Downloaded fish1.jpeg: blt5296aba66664865b successfully!","timestamp":"2021-09-10T20:16:04.112Z"}
+{"level":"info","message":"Batch no 1 of assets is complete","timestamp":"2021-09-10T20:16:04.113Z"}
+{"level":"info","message":"Asset-folders have been successfully exported!","timestamp":"2021-09-10T20:16:04.466Z"}
+{"level":"info","message":"\u001b[32mAsset export completed successfully\u001b[39m","timestamp":"2021-09-10T20:16:04.467Z"}
+{"level":"info","message":"Starting locale export","timestamp":"2021-09-10T20:16:04.468Z"}
+{"level":"info","message":"No languages found except the master language","timestamp":"2021-09-10T20:16:04.642Z"}
+{"level":"info","message":"Starting environment export","timestamp":"2021-09-10T20:16:04.652Z"}
+{"level":"info","message":"\u001b[32mAll the environments have been exported successfully\u001b[39m","timestamp":"2021-09-10T20:16:04.839Z"}
+{"level":"info","message":"Starting extension export","timestamp":"2021-09-10T20:16:04.840Z"}
+{"level":"info","message":"No extensions found","timestamp":"2021-09-10T20:16:05.041Z"}
+{"level":"info","message":"Starting webhooks export","timestamp":"2021-09-10T20:16:05.046Z"}
+{"level":"info","message":"No webhooks found","timestamp":"2021-09-10T20:16:05.273Z"}
+{"level":"info","message":"Starting Global Fields export","timestamp":"2021-09-10T20:16:05.278Z"}
+{"level":"info","message":"\u001b[32mGlobal Fields export completed successfully\u001b[39m","timestamp":"2021-09-10T20:16:05.523Z"}
+{"level":"info","message":"Starting content type export","timestamp":"2021-09-10T20:16:05.529Z"}
+{"level":"info","message":"\u001b[32mContent type(s) exported successfully\u001b[39m","timestamp":"2021-09-10T20:16:05.787Z"}
+{"level":"info","message":"Starting workflow export","timestamp":"2021-09-10T20:16:05.788Z"}
+{"level":"info","message":"No workflow were found in the Stack","timestamp":"2021-09-10T20:16:05.958Z"}
+{"level":"info","message":"Starting entry migration","timestamp":"2021-09-10T20:16:05.965Z"}
+{"level":"info","message":"Exported entries of author to the en-us language successfully","timestamp":"2021-09-10T20:16:06.345Z"}
+{"level":"info","message":"Exported entries of article to the en-us language successfully","timestamp":"2021-09-10T20:16:06.786Z"}
+{"level":"info","message":"Exported entries of featured_articles to the en-us language successfully","timestamp":"2021-09-10T20:16:07.140Z"}
+{"level":"info","message":"Exported entries of category to the en-us language successfully","timestamp":"2021-09-10T20:16:07.542Z"}
+{"level":"info","message":"Exported entries of test to the en-us language successfully","timestamp":"2021-09-10T20:16:07.900Z"}
+{"level":"info","message":"Entry migration completed successfully","timestamp":"2021-09-10T20:16:07.902Z"}
+{"level":"info","message":"Starting labels export","timestamp":"2021-09-10T20:16:07.907Z"}
+{"level":"info","message":"No labels found","timestamp":"2021-09-10T20:16:08.077Z"}
+{"level":"info","message":"\u001b[32mThe content of the blt3d61a480ac6e0604 has been exported succesfully!\u001b[39m","timestamp":"2021-09-10T20:16:08.083Z"}
+{"level":"info","message":"The log for this is stored at C:\\Contentstack\\export_test\\blogs_prod\\content\\logs\\export","timestamp":"2021-09-10T20:16:08.084Z"}
