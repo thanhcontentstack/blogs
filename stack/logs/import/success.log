@@ -1,0 +1,31 @@
+{"level":"info","message":"Migrating languages","timestamp":"2021-09-10T19:30:36.626Z"}
+{"level":"info","message":"\u001b[32mLanguages have been imported successfully!\u001b[39m","timestamp":"2021-09-10T19:30:36.630Z"}
+{"level":"info","message":"Migrating environment","timestamp":"2021-09-10T19:30:36.631Z"}
+{"level":"info","message":"Migrating assets","timestamp":"2021-09-10T19:30:36.837Z"}
+{"level":"info","message":"\u001b[32mEnvironments have been imported successfully!\u001b[39m","timestamp":"2021-09-10T19:30:36.834Z"}
+{"level":"info","message":"Created folder: 'article featured images'","timestamp":"2021-09-10T19:30:37.052Z"}
+{"level":"info","message":"Created folder: 'logos'","timestamp":"2021-09-10T19:30:37.228Z"}
+{"level":"info","message":"Asset bltfd76126dfdfaaf55 published successfully","timestamp":"2021-09-10T19:30:39.076Z"}
+{"level":"info","message":"Completed asset import of batch no: 1","timestamp":"2021-09-10T19:30:39.083Z"}
+{"level":"info","message":"Asset blt31b933a40c2ac5e4 published successfully","timestamp":"2021-09-10T19:30:39.921Z"}
+{"level":"info","message":"Completed asset import of batch no: 4","timestamp":"2021-09-10T19:30:39.922Z"}
+{"level":"info","message":"Asset bltf719a880e58ef4e3 published successfully","timestamp":"2021-09-10T19:30:41.004Z"}
+{"level":"info","message":"Asset bltce5e45cc04591814 published successfully","timestamp":"2021-09-10T19:30:41.559Z"}
+{"level":"info","message":"Completed asset import of batch no: 3","timestamp":"2021-09-10T19:30:41.560Z"}
+{"level":"info","message":"Asset blt23ed614c5c0facf7 published successfully","timestamp":"2021-09-10T19:30:42.213Z"}
+{"level":"info","message":"Asset bltf16d696855f2d68f published successfully","timestamp":"2021-09-10T19:30:43.461Z"}
+{"level":"info","message":"Completed asset import of batch no: 2","timestamp":"2021-09-10T19:30:43.462Z"}
+{"level":"info","message":"\u001b[32m7 assets uploaded successfully!\u001b[39m","timestamp":"2021-09-10T19:30:43.462Z"}
+{"level":"info","message":"\u001b[37mNo Extensions Found\u001b[39m","timestamp":"2021-09-10T19:30:43.469Z"}
+{"level":"info","message":"\u001b[37mMigrating extensions\u001b[39m","timestamp":"2021-09-10T19:30:43.463Z"}
+{"level":"info","message":"\u001b[37mMigrating webhooks\u001b[39m","timestamp":"2021-09-10T19:30:43.471Z"}
+{"level":"info","message":"\u001b[37mNo Webhooks Found\u001b[39m","timestamp":"2021-09-10T19:30:43.471Z"}
+{"level":"info","message":"\u001b[37mMigrating global-fields\u001b[39m","timestamp":"2021-09-10T19:30:43.473Z"}
+{"level":"info","message":"\u001b[32mglobalfields have been imported successfully!\u001b[39m","timestamp":"2021-09-10T19:30:43.776Z"}
+{"level":"info","message":"Migrating contenttypes","timestamp":"2021-09-10T19:30:43.777Z"}
+{"level":"info","message":"article was updated successfully!","timestamp":"2021-09-10T19:30:45.938Z"}
+{"level":"info","message":"author was updated successfully!","timestamp":"2021-09-10T19:30:47.141Z"}
+{"level":"info","message":"test was updated successfully!","timestamp":"2021-09-10T19:30:48.332Z"}
+{"level":"info","message":"category was updated successfully!","timestamp":"2021-09-10T19:30:49.545Z"}
+{"level":"info","message":"featured_articles was updated successfully!","timestamp":"2021-09-10T19:30:50.733Z"}
+{"level":"info","message":"\u001b[32mContent types have been imported successfully!\u001b[39m","timestamp":"2021-09-10T19:30:50.733Z"}
