@@ -34,3 +34,39 @@
 {"level":"info","message":"No labels found","timestamp":"2021-09-10T19:30:10.927Z"}
 {"level":"info","message":"\u001b[32mThe content of the blt3d61a480ac6e0604 has been exported succesfully!\u001b[39m","timestamp":"2021-09-10T19:30:10.927Z"}
 {"level":"info","message":"The log for this is stored at C:\\Contentstack\\export_test\\blogs_prod\\content\\logs\\export","timestamp":"2021-09-10T19:30:10.928Z"}
+{"level":"info","message":"Starting assets export","timestamp":"2021-09-10T20:17:27.903Z"}
+{"level":"info","message":"Skipping download of { title: aso-logo.png, uid: blt30ea534d1146e4db }, as they already exist","timestamp":"2021-09-10T20:17:28.488Z"}
+{"level":"info","message":"Skipping download of { title: bow1.jpg, uid: bltfd7470305c33000d }, as they already exist","timestamp":"2021-09-10T20:17:28.507Z"}
+{"level":"info","message":"Skipping download of { title: fitness-hero-wk14.jpg, uid: blt88a8704d52f10508 }, as they already exist","timestamp":"2021-09-10T20:17:28.493Z"}
+{"level":"info","message":"Skipping download of { title: crawfish7.jpeg, uid: blt71ac3faace13dd50 }, as they already exist","timestamp":"2021-09-10T20:17:28.510Z"}
+{"level":"info","message":"Skipping download of { title: ea-softball.png, uid: blte507cd0d326445fe }, as they already exist","timestamp":"2021-09-10T20:17:28.513Z"}
+{"level":"info","message":"Skipping download of { title: bows.jpeg, uid: blt65523444ef9dda00 }, as they already exist","timestamp":"2021-09-10T20:17:28.701Z"}
+{"level":"info","message":"Skipping download of { title: fish1.jpeg, uid: blt5296aba66664865b }, as they already exist","timestamp":"2021-09-10T20:17:28.704Z"}
+{"level":"info","message":"Batch no 1 of assets is complete","timestamp":"2021-09-10T20:17:28.705Z"}
+{"level":"info","message":"Asset-folders have been successfully exported!","timestamp":"2021-09-10T20:17:29.088Z"}
+{"level":"info","message":"\u001b[32mAsset export completed successfully\u001b[39m","timestamp":"2021-09-10T20:17:29.089Z"}
+{"level":"info","message":"Starting locale export","timestamp":"2021-09-10T20:17:29.090Z"}
+{"level":"info","message":"No languages found except the master language","timestamp":"2021-09-10T20:17:29.263Z"}
+{"level":"info","message":"Starting environment export","timestamp":"2021-09-10T20:17:29.269Z"}
+{"level":"info","message":"\u001b[32mAll the environments have been exported successfully\u001b[39m","timestamp":"2021-09-10T20:17:29.457Z"}
+{"level":"info","message":"Starting extension export","timestamp":"2021-09-10T20:17:29.462Z"}
+{"level":"info","message":"No extensions found","timestamp":"2021-09-10T20:17:29.633Z"}
+{"level":"info","message":"Starting webhooks export","timestamp":"2021-09-10T20:17:29.634Z"}
+{"level":"info","message":"No webhooks found","timestamp":"2021-09-10T20:17:29.833Z"}
+{"level":"info","message":"Starting Global Fields export","timestamp":"2021-09-10T20:17:29.835Z"}
+{"level":"info","message":"\u001b[32mGlobal Fields export completed successfully\u001b[39m","timestamp":"2021-09-10T20:17:30.007Z"}
+{"level":"info","message":"Starting content type export","timestamp":"2021-09-10T20:17:30.008Z"}
+{"level":"info","message":"\u001b[32mContent type(s) exported successfully\u001b[39m","timestamp":"2021-09-10T20:17:30.190Z"}
+{"level":"info","message":"Starting workflow export","timestamp":"2021-09-10T20:17:30.191Z"}
+{"level":"info","message":"No workflow were found in the Stack","timestamp":"2021-09-10T20:17:30.348Z"}
+{"level":"info","message":"Starting entry migration","timestamp":"2021-09-10T20:17:30.355Z"}
+{"level":"info","message":"Exported entries of author to the en-us language successfully","timestamp":"2021-09-10T20:17:30.707Z"}
+{"level":"info","message":"Exported entries of article to the en-us language successfully","timestamp":"2021-09-10T20:17:31.160Z"}
+{"level":"info","message":"Exported entries of featured_articles to the en-us language successfully","timestamp":"2021-09-10T20:17:31.544Z"}
+{"level":"info","message":"Exported entries of category to the en-us language successfully","timestamp":"2021-09-10T20:17:31.944Z"}
+{"level":"info","message":"Exported entries of test to the en-us language successfully","timestamp":"2021-09-10T20:17:32.341Z"}
+{"level":"info","message":"Entry migration completed successfully","timestamp":"2021-09-10T20:17:32.343Z"}
+{"level":"info","message":"Starting labels export","timestamp":"2021-09-10T20:17:32.346Z"}
+{"level":"info","message":"No labels found","timestamp":"2021-09-10T20:17:32.503Z"}
+{"level":"info","message":"\u001b[32mThe content of the blt3d61a480ac6e0604 has been exported succesfully!\u001b[39m","timestamp":"2021-09-10T20:17:32.504Z"}
+{"level":"info","message":"The log for this is stored at C:\\Contentstack\\export_test\\blogs_prod\\stack\\logs\\export","timestamp":"2021-09-10T20:17:32.504Z"}
